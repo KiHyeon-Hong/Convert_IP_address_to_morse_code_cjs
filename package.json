@@ -1,0 +1,15 @@
+{
+  "name": "convert_ip_address_to_morse_code_cjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "request": "^2.88.2"
+  }
+}
